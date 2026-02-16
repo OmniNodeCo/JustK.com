@@ -2,67 +2,11 @@
 const products = [
     {
         id: 1,
-        name: "Wireless Headphones",
+        name: "Coming Soon",
         category: "electronics",
-        price: 99.99,
-        image: "🎧",
-        description: "Premium wireless headphones with noise cancellation"
-    },
-    {
-        id: 2,
-        name: "Smart Watch",
-        category: "electronics",
-        price: 199.99,
-        image: "⌚",
-        description: "Feature-rich smartwatch with health tracking"
-    },
-    {
-        id: 3,
-        name: "Designer T-Shirt",
-        category: "fashion",
-        price: 29.99,
-        image: "👕",
-        description: "Premium cotton t-shirt with modern design"
-    },
-    {
-        id: 4,
-        name: "Running Shoes",
-        category: "sports",
-        price: 79.99,
-        image: "👟",
-        description: "Comfortable running shoes for all terrains"
-    },
-    {
-        id: 5,
-        name: "Coffee Maker",
-        category: "home",
-        price: 149.99,
-        image: "☕",
-        description: "Automatic coffee maker with timer"
-    },
-    {
-        id: 6,
-        name: "Yoga Mat",
-        category: "sports",
-        price: 34.99,
-        image: "🧘",
-        description: "Non-slip yoga mat for home workouts"
-    },
-    {
-        id: 7,
-        name: "Laptop Backpack",
-        category: "electronics",
-        price: 59.99,
-        image: "🎒",
-        description: "Durable backpack with laptop compartment"
-    },
-    {
-        id: 8,
-        name: "Sunglasses",
-        category: "fashion",
-        price: 89.99,
-        image: "🕶️",
-        description: "UV protection sunglasses with style"
+        price: "Coming Soon",
+        image: "../assets/Elephant",
+        description: "Coming Soon"
     }
 ];
 
