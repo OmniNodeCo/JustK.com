@@ -1,4 +1,4 @@
-# JustK x OmniNode360 Shopping Site
+# JustK x OmniNodeCo Shopping Site
 
 A modern, responsive e-commerce website built with HTML, CSS, and JavaScript.
 
